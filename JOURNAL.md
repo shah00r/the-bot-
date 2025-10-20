@@ -6,13 +6,14 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **The Battle Bot**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/772).
-
-
 ## 10/20/2025 - I have prepare basic body structure of bot  
 
 first I made draft of bot then cut metal pieces accordingly than I weld them together so basic structure of bot is ready also i have drill holes in it to fit components also I have made list of components to buy .Cutting metal sheets precicily take lot of time and effort also finding metal sheets was challenging![bot.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzU0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--67594144779b299cb318b2dcc723be21c0397f0d/bot.jpg)
 ![l.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzUzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--7bc27c2a7aa4f153c1704288cfa931d77eef7ce9/l.jpg)
   
+
+## 10/21/2025 - electronic parts collected parts collected   
+
+first I write whole list of items needed for project for example motors controller tyre and screws than I search for them in market for cheapest price possible .every thing was easily found but it was challenging to find controller as it was expensive it took me almost 1.5 hours only to search controller but finally I got it .finding m![com.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--11d63a727cf332096eefc2bf4fd51a7ed37e9c7b/com.jpg)
+otor was comparable easy from all task   
 
