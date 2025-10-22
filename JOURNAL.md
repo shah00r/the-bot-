@@ -17,3 +17,8 @@ first I made draft of bot then cut metal pieces accordingly than I weld them tog
 first I write whole list of items needed for project for example motors controller tyre and screws than I search for them in market for cheapest price possible .every thing was easily found but it was challenging to find controller as it was expensive it took me almost 1.5 hours only to search controller but finally I got it .finding m![com.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--11d63a727cf332096eefc2bf4fd51a7ed37e9c7b/com.jpg)
 otor was comparable easy from all task   
 
+## 10/22/2025 - FINALLY COMPLETED !  
+
+Finally I have completed "THE METAL BOT" it requires a lot of patience to complete .I completed the wiring and fit components in .It has a blade that spin and work as a attacking tool ,it was very difficult to stablelise the spinner as it vibrating the whole bot then i reduce the speed of and add weight in front and luckily my problem got .![f bot.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--44ee3d289ec1302bd48128c5598bf21dbd0cc2a6/f%20bot.jpg)
+  
+
