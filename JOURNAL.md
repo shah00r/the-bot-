@@ -19,7 +19,7 @@ otor was comparable easy from all task
 
 ## 10/22/2025 7:06 PM - FINALLY COMPLETED !  
 
-Finally I have completed "THE METAL BOT" it requires a lot of patience to complete .I completed the wiring and fit components in .It has a blade that spin and work as a attacking tool ,it was very difficult to stablelise the spinner as it vibrating the whole bot then i reduce the speed of and add weight in front and luckily my problem got .![f bot.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--44ee3d289ec1302bd48128c5598bf21dbd0cc2a6/f%20bot.jpg)
+Finally I have completed "THE METAL BOT" it requires a lot of patience to complete .I completed the wiring and fit components in also make some changes in body   .It has a blade that spin and work as a attacking tool ,it was very difficult to stablelise the spinner as it vibrating the whole bot then i reduce the speed of and add weight in front and luckily my problem got .![f bot.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDM5NSwicHVyIjoiYmxvYl9pZCJ9fQ==--44ee3d289ec1302bd48128c5598bf21dbd0cc2a6/f%20bot.jpg)
   
 
 ## 10/22/2025 7:06 PM - FINALLY COMPLETED !  
